@@ -1,0 +1,21 @@
+<evaluation>
+  <!-- Written against this showcase repo. Register the repo root as a workspace
+       (e.g. "showcase": "/path/to/portfolio-showcase") and ask an agent each question
+       using only the workspace_* tools. -->
+  <qa_pair>
+    <question>The calibration loop's Apply Lane Runbook sets a rule budget for a skill's SKILL.md file. What is the maximum word count?</question>
+    <answer>3,000</answer>
+  </qa_pair>
+  <qa_pair>
+    <question>After a calibration patch is applied, how many of the skill's next deliverables are watched during probation?</question>
+    <answer>2</answer>
+  </qa_pair>
+  <qa_pair>
+    <question>The corpus search ranks results with a hybrid score. What weight does it give to the semantic component?</question>
+    <answer>0.72</answer>
+  </qa_pair>
+  <qa_pair>
+    <question>How many minutes old can a draft-register file be and still count as fresh in the calibration Stop hook script?</question>
+    <answer>45</answer>
+  </qa_pair>
+</evaluation>
